@@ -6,6 +6,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 /**
  * 源码学习过程
+ * spring bean循环依赖
  */
 public class StudyAppliaction {
 
